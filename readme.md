@@ -11,3 +11,7 @@ JavaScript drum kit, using data attributes and event listeners to set sounds to 
 ## Day two
 
 JS and CSS Clock manipulating DOMS
+
+## Day three
+
+Use of JS to update CSS variables
