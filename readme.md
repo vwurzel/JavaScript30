@@ -15,3 +15,7 @@ JS and CSS Clock manipulating DOMS
 ## Day three
 
 Use of JS to update CSS variables
+
+## Day four
+
+Use of various array methods
