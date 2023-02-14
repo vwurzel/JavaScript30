@@ -23,3 +23,7 @@ Use of various array methods
 ## Day five
 
 Using flex and JS to animate pannels
+
+## Day six
+
+Using Ajax to filter a cities list and sugest the places
