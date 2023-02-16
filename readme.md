@@ -31,3 +31,7 @@ Using Ajax to filter a cities list and sugest the places
 ## Day seven
 
 Use of another array methods
+
+## Day eight
+
+Using canvas and HSL to draw a line and change width and color
