@@ -27,3 +27,7 @@ Using flex and JS to animate pannels
 ## Day six
 
 Using Ajax to filter a cities list and sugest the places
+
+## Day seven
+
+Use of another array methods
