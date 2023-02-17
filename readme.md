@@ -35,3 +35,7 @@ Use of another array methods
 ## Day eight
 
 Using canvas and HSL to draw a line and change width and color
+
+## Day nine
+
+Various types of console, warnings, erros, timing, counting and testing
