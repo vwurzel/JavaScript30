@@ -47,3 +47,7 @@ Hold Shift to Check Multiple Checkboxes
 ## Day eleven
 
 Custom HTML5 video player
+
+## Day twelve
+
+Key Sequence Detection (KONAMI CODE)
